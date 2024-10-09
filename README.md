@@ -1,5 +1,5 @@
 
-Here is the complete README file for your Hospital Management System:
+
 
 ## Hospital Management System
 # 1.Overview
